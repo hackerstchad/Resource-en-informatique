@@ -27,7 +27,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Cybersécurité & Hacking Éthique
-<img width="894" height="894" alt="icons8-cyber-security-48-6ac29ab3-b981-4bc0-bd86-e0c2bf7d8b02" src="https://github.com/user-attachments/assets/eae8a972-bc0f-4f73-a484-774d7991c28b" />
+<img width="400" height="250" alt="7t8i" src="https://github.com/user-attachments/assets/9aa16dd5-0973-467a-a621-dacfbcf19366" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -85,6 +86,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Programmation Python
+<img width="480" height="120" alt="7LIp" src="https://github.com/user-attachments/assets/a0bf36f0-be09-431b-b321-cabc97096cda" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -122,6 +125,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Linux & Systèmes
+<img width="576" height="324" alt="images" src="https://github.com/user-attachments/assets/671c5afa-bb0e-4475-950e-486578105740" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -149,6 +154,9 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Réseaux & Protocoles
+<img width="900" height="600" alt="antene" src="https://github.com/user-attachments/assets/ff8ef4ac-9327-47fd-8b69-40935b08cba5" />
+
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -176,6 +184,7 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Intelligence Artificielle & Machine Learning
+<img width="800" height="800" alt="AI-text-to-image-photo-robot-with-computer" src="https://github.com/user-attachments/assets/1477dc92-93f0-4cf1-84f5-07f554e6c095" />
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -203,6 +212,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Développement Web
+<img width="516" height="387" alt="images (1)" src="https://github.com/user-attachments/assets/634e1306-6af3-4180-8712-41cba462f0b0" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -230,6 +241,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Base de données
+<img width="1365" height="768" alt="databases-zeenea" src="https://github.com/user-attachments/assets/3d1c69fc-9d7d-455b-b4c4-3d0c61eb162f" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -257,6 +270,9 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Blockchain & Cryptomonnaies
+<img width="599" height="333" alt="images (2)" src="https://github.com/user-attachments/assets/d7e1c254-3f1f-4659-b3c7-04a00ffe3b43" />
+
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -284,6 +300,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Électronique & IoT
+<img width="1600" height="1066" alt="applied_electronics_lab_large 1600x0" src="https://github.com/user-attachments/assets/79ec8023-5b9d-48a6-9c2e-2a5977559adc" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -311,6 +329,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Mathématiques & Algorithmes
+<img width="604" height="313" alt="Kep1" src="https://github.com/user-attachments/assets/b5e0b727-50d0-45d0-a432-2b0b0a91ac9e" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -338,6 +358,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Forensic & OSINT
+<img width="1200" height="627" alt="68d19245e9437fb0b1b34492_Handling Digital Evidence  Our Ultimate Guide to Forensic OSINT" src="https://github.com/user-attachments/assets/bc259ae5-19e8-4c0e-a374-b96f6e0e3cec" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -365,6 +387,9 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Reverse Engineering
+<img width="1200" height="800" alt="shutterstock_1038663370-1200x800" src="https://github.com/user-attachments/assets/89510cb4-697e-41b6-9dc6-974a3e705c4b" />
+
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -392,6 +417,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Cloud & DevOps
+<img width="608" height="750" alt="Cloud-and-DevOps" src="https://github.com/user-attachments/assets/e420a647-dcd3-49aa-9011-27b8fe7035e3" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -419,6 +446,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Mobile Development
+<img width="682" height="360" alt="360_F_500790266_gaZS8kRQeZsUbD1zKOJJ8bjI0uwNLghi" src="https://github.com/user-attachments/assets/8656636a-5c29-407f-a861-4d702129c38f" />
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -446,6 +475,9 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## C/C++ & Systèmes Bas Niveau
+<img width="1024" height="512" alt="4810048073629696" src="https://github.com/user-attachments/assets/94875dae-f32e-4493-bcea-a107e432bf54" />
+
+
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
@@ -477,6 +509,8 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 Pour compléter ce README jusqu'à plus de 1000 ressources, voici des listes de liens vers des bibliothèques de livres, archives, cours et documentation par domaine :
 
 ### Archives et Bibliothèques Numériques Générales
+<img width="1001" height="562" alt="internet-archive-met-gratuitement-a-disposition-14-millions-de-livres-numerises-une" src="https://github.com/user-attachments/assets/97f90fa6-8896-4b6b-9443-8bbf10b0145d" />
+
 
 | # | Nom | Lien | Description |
 |---|-----|------|-------------|
@@ -502,6 +536,8 @@ Pour compléter ce README jusqu'à plus de 1000 ressources, voici des listes de 
 | 360 | Wikibooks | [Wikibooks](https://en.wikibooks.org/wiki/Main_Page) | Livres wiki |
 
 ### Cours Universitaires Gratuits (MOOCs)
+<img width="1920" height="1200" alt="universitaire" src="https://github.com/user-attachments/assets/cc9d5bb8-fdc4-4667-8b47-df16be8485e1" />
+
 
 | # | Plateforme | Lien | Description |
 |---|------------|------|-------------|
@@ -527,6 +563,8 @@ Pour compléter ce README jusqu'à plus de 1000 ressources, voici des listes de 
 | 380 | Kaggle Learn | [Kaggle](https://www.kaggle.com/learn) | Cours data/ML pratiques |
 
 ### Documentation Officielle et Références par Technologie
+<img width="1024" height="1024" alt="realistic-robotic-hands-manipulating-multiple-floa" src="https://github.com/user-attachments/assets/e275f7f0-92cb-492b-8d9e-0cf8b1d5a8b9" />
+
 
 | # | Technologie | Lien |
 |---|-------------|------|
@@ -552,6 +590,8 @@ Pour compléter ce README jusqu'à plus de 1000 ressources, voici des listes de 
 | 400 | Laravel | https://laravel.com/docs/ |
 
 ### Chaînes YouTube Éducatives
+<img width="1200" height="800" alt="Educational Youtube Channels" src="https://github.com/user-attachments/assets/febf3e03-41ae-401e-aac5-dee4738f73ad" />
+
 
 | # | Chaîne | Lien | Sujet |
 |---|--------|------|-------|
@@ -577,6 +617,8 @@ Pour compléter ce README jusqu'à plus de 1000 ressources, voici des listes de 
 | 420 | Corey Schafer | https://www.youtube.com/c/CoreySchafer | Python |
 
 ### Plateformes de Challenges et CTF
+<img width="590" height="278" alt="images (3)" src="https://github.com/user-attachments/assets/7aab1cf7-8e37-4a38-80a2-2a210ec60369" />
+
 
 | # | Plateforme | Lien | Description |
 |---|------------|------|-------------|
@@ -602,6 +644,7 @@ Pour compléter ce README jusqu'à plus de 1000 ressources, voici des listes de 
 | 440 | Malware Traffic Analysis | https://www.malware-traffic-analysis.net/ | Analyse trafic malware |
 
 ### 560+ Ressources Supplémentaires par Catégorie
+<img width="733" height="418" alt="images (4)" src="https://github.com/user-attachments/assets/2450ad4c-41ee-470f-b0ff-758e2e3c0756" />
 
 Pour atteindre 1000+ ressources, voici des collections et listes de ressources complètes :
 
@@ -636,6 +679,7 @@ Pour atteindre 1000+ ressources, voici des collections et listes de ressources c
 - **Awesome Cryptography** : https://github.com/sobolevn/awesome-cryptography
 
 ### Liens vers Bibliothèques de Livres Techniques par Éditeur
+<img width="1920" height="1200" alt="universitaire" src="https://github.com/user-attachments/assets/37beaa49-2339-4846-9416-f6839b75929f" />
 
 | # | Éditeur | Lien |
 |---|---------|------|
@@ -651,6 +695,9 @@ Pour atteindre 1000+ ressources, voici des collections et listes de ressources c
 | 510 | Addison-Wesley | https://www.informit.com/imprint/index.aspx?st=61083 |
 
 ### Documentation de Logiciels et Outils de Sécurité
+<img width="800" height="800" alt="vector-solid-illustration-cyber-security-conceptual-related-to-personal-information-protection-private-data-safety-doodle-330712171" src="https://github.com/user-attachments/assets/665ef1c5-b691-4df3-91a5-e334e03d2345" />
+
+
 
 | # | Outil | Lien |
 |---|-------|------|
@@ -676,6 +723,7 @@ Pour atteindre 1000+ ressources, voici des collections et listes de ressources c
 | 530 | OSSEC | https://www.ossec.net/docs/ |
 
 ### 1000+ Livres en PDF Gratuits - Collections
+<img width="679" height="451" alt="images (5)" src="https://github.com/user-attachments/assets/018dac2d-687e-4874-bb5e-eb788844d398" />
 
 | # | Collection | Lien |
 |---|------------|------|
