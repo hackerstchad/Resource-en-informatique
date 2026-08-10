@@ -679,7 +679,8 @@ Pour atteindre 1000+ ressources, voici des collections et listes de ressources c
 - **Awesome Cryptography** : https://github.com/sobolevn/awesome-cryptography
 
 ### Liens vers Bibliothèques de Livres Techniques par Éditeur
-<img width="1920" height="1200" alt="universitaire" src="https://github.com/user-attachments/assets/37beaa49-2339-4846-9416-f6839b75929f" />
+<img width="800" height="800" alt="design-can-be-used-as-logo-icon-as-complement-to-design-link-search-logo-icon-design-127370576" src="https://github.com/user-attachments/assets/5ffc2513-2b74-4efb-9e14-e47a84520552" />
+
 
 | # | Éditeur | Lien |
 |---|---------|------|
