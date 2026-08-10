@@ -27,6 +27,7 @@ Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et do
 ---
 
 ## Cybersécurité & Hacking Éthique
+<img width="894" height="894" alt="icons8-cyber-security-48-6ac29ab3-b981-4bc0-bd86-e0c2bf7d8b02" src="https://github.com/user-attachments/assets/eae8a972-bc0f-4f73-a484-774d7991c28b" />
 
 | # | Titre | Lien | Description |
 |---|-------|------|-------------|
