@@ -1,5 +1,4 @@
 HACKERS-TCHAD
-<img width="1248" height="832" alt="OIG1" src="https://github.com/user-attachments/assets/49eea44a-02bd-4993-8ff0-f354820b87f5" />
 
 **Curatée par HiddenWorld Communauté Tchadienne**
 
