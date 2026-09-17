@@ -1,8 +1,8 @@
 HACKERS-TCHAD
 
-**Curatée par HiddenWorld Communauté Tchadienne**
+Communauté Tchadien
 
-Ce README regroupe plus de 1000 ressources gratuites de livres, PDF, cours et documentation en ligne dans les domaines du code, hacking éthique, cybersécurité, réseaux, Linux, programmation Python, intelligence artificielle, blockchain, électronique, mathématiques et sciences.
+ressources gratuites de livres, PDF, cours et documentation en ligne dans les domaines du code, hacking éthique, cybersécurité, réseaux, Linux, programmation Python, intelligence artificielle, blockchain, électronique, mathématiques et sciences.
 
 ---
 
